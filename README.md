@@ -2,6 +2,8 @@
 
 A game I made with some good friends for Ludum Dare 51.
 
+https://ldjam.com/events/ludum-dare/51/10-doujins-per-second
+
 Code's crap but it's in F# and surprisingly bug-free. All jank is completely intentional.
 
 ## A bit about the code
