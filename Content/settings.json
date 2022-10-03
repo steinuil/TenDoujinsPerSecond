@@ -1,0 +1,372 @@
+{
+	"Customers": [
+		{
+			"Name": "Fat Otaku",
+			"TextureFile": "body",
+			"Likes": [
+				"Touhou",
+				"Surf rock"
+			],
+			"BodyPartsFiles": [
+				[
+					"shirt_keine",
+					"shirt_reimu",
+					"shirt_sanae"
+				],
+				[
+					"eyebrows_big",
+					"eyebrows_regular"
+				],
+				[
+					"eyes_bigglassess",
+					"eyes_smallglasses",
+					"eyes_squint"
+				],
+				[
+					"hair_bowlcut",
+					"hair_chonmage",
+					"hair_combover",
+					"hair_long"
+				],
+				[
+					"mouth_buckteeth",
+					"mouth_fat",
+					"mouth_wide"
+				],
+				[
+					"accessory_catears",
+					"accessory_hachimaki"
+				]
+			],
+			"FavoriteItem": null,
+			"Dialogue": {
+				"Greetings": [
+					"M-my waifu..."
+				],
+				"Negative": "I-I'm gonna post on 2chan\nabout this!",
+				"Positive": "Excellent!"
+			}
+		},
+		{
+			"Name": "Freddie",
+			"TextureFile": "body",
+			"Likes": [
+				"Surf rock"
+			],
+			"BodyPartsFiles": [
+				[
+					"shirt_youmu"
+				],
+				[
+					"freddie"
+				]
+			],
+			"FavoriteItem": null,
+			"Dialogue": {
+				"Greetings": [
+					"I'm just a poor boy,\nI need no sympathy."
+				],
+				"Negative": "Is this the real life?\nIs this just fantasy?",
+				"Positive": "If I'm not back again\nthis time tomorrow..."
+			}
+		},
+		{
+			"Name": "Mysterious Girl",
+			"TextureFile": "mysterious-girl",
+			"TextureOverlays": [],
+			"Likes": [
+				"Love Live"
+			],
+			"FavoriteItem": null,
+			"BodyPartsFiles": [],
+			"Dialogue": {
+				"Greetings": [
+					"You know why I'm here."
+				],
+				"Negative": "Unbelievable!",
+				"Positive": "Good."
+			}
+		},
+		{
+			"Name": "Friendly Foreigner",
+			"TextureFile": "gaijin",
+			"Likes": [
+				"Love Live",
+				"Lycoris Recoil",
+				"Touhou",
+				"Kantai Collection",
+				"Fate",
+				"Girls Last Tour",
+				"Girls und Panzer",
+				"Girls Frontline",
+				"Free",
+				"Surf rock"
+			],
+			"BodyPartsFiles": [],
+			"FavoriteItem": null,
+			"Dialogue": {
+				"Greetings": [
+					"KONEECHEEWA,\nMEENA-SAHN!",
+					"YOU EVER HAD\nTERRY-YAHKEE CHICKEN?",
+					"MAN, I JUST\nLOVE JAPAN!",
+					"HAVE YOU SEEN DEMON SLAYER?",
+					"HAVE YOU SEEN\nMY HERO ACADEMY?",
+					"HAVE YOU SEEN\nMY WALLET?",
+					"YEAH, CAN I GET-\nUHHHHHHHHHHHHHHH"
+				],
+				"Negative": "OH SHIT, MY FLIGHT\nLEAVES IN FIVE MINUTES!",
+				"Positive": "RIGHT ON, DUDE,\nGRACIAS!"
+			}
+		},
+		{
+			"Name": "Menhera",
+			"TextureFile": "fujo",
+			"Likes": [],
+			"BodyPartsFiles": [],
+			"FavoriteItem": null,
+			"Dialogue": {
+				"Greetings": [
+					"I-idols...",
+					"Th-the tanks...",
+					"Th-the gays...",
+					"F-feet...",
+					"D-Dick Dale...\nbut anime...",
+					"T-Touhous...\nin Paris...",
+					"Th-the shrine...\nnoises...",
+					"I-I love you...\nKochiya Sanae...",
+					"I-it sucks your dick...",
+					"Potatoes..",
+					"T-The guns..."
+				],
+				"Negative": "...",
+				"Positive": "Th-thanks..."
+			}
+		},
+		{
+			"Name": "Famous Videogame Director",
+			"TextureFile": "kojima",
+			"Likes": [
+				"Lycoris Recoil"
+			],
+			"BodyPartsFiles": [],
+			"FavoriteItem": null,
+			"Dialogue": {
+				"Greetings": [
+					"..."
+				],
+				"Negative": "...",
+				"Positive": "..."
+			}
+		}
+	],
+	"CustomerBagsByDay": [
+		[
+			"Fat Otaku",
+			"Freddie",
+			"Fat Otaku",
+			"Menhera",
+			"Menhera",
+			"Friendly Foreigner"
+		],
+		[
+			"Fat Otaku",
+			"Friendly Foreigner",
+			"Menhera",
+			"Menhera",
+			"Menhera",
+			"Mysterious Girl"
+		],
+		[
+			"Fat Otaku",
+			"Menhera",
+			"Menhera",
+			"Menhera",
+			"Friendly Foreigner",
+			"Famous Videogame Director"
+		]
+	],
+	"LeftOverCustomerBag": [
+		"Fat Otaku",
+		"Fat Otaku",
+		"Fat Otaku",
+		"Fat Otaku",
+		"Fat Otaku",
+		"Fat Otaku",
+		"Menhera",
+		"Menhera",
+		"Menhera",
+		"Menhera",
+		"Menhera",
+		"Menhera",
+		"Menhera",
+		"Menhera",
+		"Menhera",
+		"Friendly Foreigner",
+		"Friendly Foreigner",
+		"Friendly Foreigner"
+	],
+	"Doujinshi": [
+		{
+			"Name": "Gay Idols 9: Revengeance",
+			"TextureFile": "dj_nicomaki",
+			"Kind": "ThinBook",
+			"Description": "The ninth entry in a long running\nseries of doujins based on a popular\nidol anime franchise that's clearly\ninferior to Idolm@ster.",
+			"Tag": "Love Live",
+			"Index": 0,
+			"Position": {
+				"X": 600,
+				"Y": 95
+			}
+		},
+		{
+			"Name": "Maidens in Love and at War",
+			"TextureFile": "dj_gup",
+			"Kind": "ThinBook",
+			"Description": "Young girls should not operate\nmilitary equipment, but here we are.",
+			"Tag": "Girls und Panzer",
+			"Index": 1,
+			"Position": {
+				"X": 600,
+				"Y": 260
+			}
+		},
+		{
+			"Name": "Gay Boy Power Hour 13",
+			"TextureFile": "dj_free",
+			"Kind": "ThinBook",
+			"Description": "A boys' love doujin based on\nan anime about swimming that got\n8 seasons and half a dozen movies, even though\nHyouka will never even get a second season.",
+			"Tag": "Free",
+			"Index": 2,
+			"Position": {
+				"X": 800,
+				"Y": 95
+			}
+		},
+		{
+			"Name": "Das Foot",
+			"TextureFile": "dj_foot",
+			"Kind": "ThinBook",
+			"Description": "It's summertime, and the living's easy.\nJoin boat girl and her friends, boat girls,\non an epic adventure of 'I didn't watch the anime,\nbecause it looked kinda trash'.",
+			"Tag": "Kantai Collection",
+			"Index": 3,
+			"Position": {
+				"X": 800,
+				"Y": 260
+			}
+		},
+		{
+			"Name": "Touhou Surfrock 16",
+			"TextureFile": "cd_surfrock",
+			"Kind": "Music",
+			"Description": "Surf Rock was popular for a brief period\nbetween 1962 and 1964 on the American West Coast,\nbut has recently seen a resurgence in Japan\nbecause they ran out of genres to adapt Touhou music to.",
+			"Tag": "Surf rock",
+			"Index": 0,
+			"Position": {
+				"X": 600,
+				"Y": 260
+			}
+		},
+		{
+			"Name": "Keine West",
+			"TextureFile": "cd_yeezy",
+			"Kind": "Music",
+			"Description": "I miss the old Keine, straight from the 'Go Keine,\nchop up the soul Keine, set on her goals Keine,\nI hate the new Keine, the bad mood Keine,\nthe always rude Keine, spaz in the news Keine.",
+			"Tag": "Touhou",
+			"Index": 1,
+			"Position": {
+				"X": 800,
+				"Y": 95
+			}
+		},
+		{
+			"Name": "Soundtracks for the Shrine",
+			"TextureFile": "cd_shrine",
+			"Kind": "Music",
+			"Description": "2 hours of incoherent noises occasionally\ninterspersed with terrible music and\nrecordings of a shrine maiden complaining\nabout the empty offer box.",
+			"Tag": "Touhou",
+			"Index": 2,
+			"Position": {
+				"X": 800,
+				"Y": 260
+			}
+		},
+		{
+			"Name": "In The Aeroplane Over Gensokyo",
+			"TextureFile": "cd_airplane",
+			"Kind": "Music",
+			"Description": "Overrated album exploring Sanae's\n10 desires with psychedelic folk.",
+			"Tag": "Touhou",
+			"Index": 3,
+			"Position": {
+				"X": 600,
+				"Y": 95
+			}
+		},
+		{
+			"Name": "Cursed Bean Plushie That Sucks\nYour Dick And Calls You Gay",
+			"TextureFile": "nuigurumi_bean",
+			"Kind": "Nuigurumi",
+			"Description": "Does what it says on the tin.\nComes with a can of Monster Energy Drink.",
+			"Tag": "Fate",
+			"Index": 0,
+			"Position": {
+				"X": 842,
+				"Y": 159
+			}
+		},
+		{
+			"Name": "Potato Anime Girl",
+			"TextureFile": "nuigurumi_GLT",
+			"Kind": "Nuigurumi",
+			"Description": "Sometimes you just gotta\neat canned food and burn books.\nThis plushie will keep you company\nwhen you do.",
+			"Tag": "Girls Last Tour",
+			"Index": 2,
+			"Position": {
+				"X": 535,
+				"Y": 145
+			}
+		},
+		{
+			"Name": "GFL Fumo",
+			"TextureFile": "nuigurumi_GFL",
+			"Kind": "Nuigurumi",
+			"Description": "First they turned the cats into girls,\nthen they went for the battleships,\nand now they're even turning the guns into girls?\nWhat are they gonna anthropomorphize next?",
+			"Tag": "Girls Frontline",
+			"Index": 3,
+			"Position": {
+				"X": 701,
+				"Y": 149
+			}
+		}
+	],
+	"Nesoberi": {
+		"Name": "Blonde Gun Girl",
+		"TextureFile": "nuigurumi_kusodeka",
+		"Kind": "Nesoberi",
+		"Description": "An absolutely massive plushie\nof a character from a bland,\nflavor-of-the-month anime that\nwill be forgotten in three months.\nSeriously, this thing is huge,\nit costs like $150 to have it shipped.\nDomestically, in Japan.",
+		"Tag": "Lycoris Recoil",
+		"Index": 1,
+		"Position": {
+			"X": 421,
+			"Y": 482
+		}
+	},
+	"BullshitReasons": [
+		"$ got hit by a car.",
+		"$ was too hung over.",
+		"$ was arrested by Homeland Security.",
+		"$ was implicated in the assassination of\n57th Prime Minister of Japan, Shinzo Abe.",
+		"$ went underground in Guatemala.",
+		"$ commited suicide in his jail cell by\nshooting himself in the back of the head, twice.",
+		"$ was shipwrecked on an uninhabited island.",
+		"$ was hit by a truck and reincarnated as a\npinball machine in a generic fantasy world.",
+		"$ repeatedly beat himself in the balls\nuntil deflated.",
+		"$ got hit by a tactical-yield thermonuclear warhead\nwhile picking berries on a military test range.",
+		"$ couldn't afford the ticket because\nhe keeps superchatting vtubers entire paychecks.",
+		"$ was played like a goddamn fiddle.",
+		"$ got lost in Shibuya station.",
+		"$ has lost control of his life.",
+		"$ is busy doing tofu deliveries for his dad.",
+		"$ is still in line for a popular circle's booth."
+	]
+}

@@ -1,0 +1,13 @@
+.stignore
+.stfolder
+.stversions
+bin/
+obj/
+assets/
+docs/
+
+*.zip
+.mgstats
+TenDoujinsPerSecond-linux/
+TenDoujinsPerSecond-windows/
+build/
